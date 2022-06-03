@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+#navbarNav{
+    font-size: 15px;
+    text-transform: uppercase;
+    
+    
+}
+.navbar-brand{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.nav-link.active{
+    font-weight: bold;
+    border-bottom: solid 4px #ffc107;
+}
+.carousel-item{
+    max-height: 450px;
+    
+}
+
+#home-heading{
+    background: url(/img/bg21.jpg);
+    min-height: 200px;
+text-align: center;
+color: aliceblue;
+position: relative;
+background-attachment: fixed;
+background-position: 0 -200px;
+
+    }
+    
+    
+    
+    #video{
+background-image: url(/img/pexels-josh-sorenson-1714208.jpg);
+min-height: 200px;
+text-align: center;
+color: aliceblue;
+position: relative;
+background-attachment: fixed;
+background-position: 0 -300px;
+background-repeat: no-repeat;
+    }
+    #video a{
+color: aliceblue;
+    }
+    
+#about-heading{
+    background-image: url(/img/pexels-about-1.jpg);
+min-height: 300px;
+
+color: aliceblue;
+position: relative;
+background-attachment: fixed;
+background-position: 0 -200px;
+background-repeat: no-repeat;
+    }
+
+#kurs-heading{
+    background-image: url(/img/pexels-kurse-1.jpg);
+    min-height: 300px;
+    
+    color: aliceblue;
+    position: relative;
+    background-attachment: fixed;
+    background-position: 0 -100px;
+    background-repeat: no-repeat;
+    color: black;
+    font-weight: bold;
+}
+.bi.bi-star-fill.checked{
+    color: #ffc107;
+}
+
+#blog-heading{
+    background-image: url(/img/pexels-ketut-subiyanto-4126724.jpg);
+    min-height: 300px;
+    
+    
+    position: relative;
+    background-attachment: fixed;
+    background-position: 0 -50px;
+    background-repeat: no-repeat;
+    color: black;
+    font-weight: bold;
+
+}
+#data{
+    display: block;
+    float: left;
+    border: 2px solid;
+    text-align: center;
+    background-color:#212529;
+    color: aliceblue;
+    margin-right: 5px;
+    width: 60px;
+    height: 50px;
+    
+    
+}
+
+.breadcrumb{
+    
+    margin-left: 50px;
+    
+    font-weight: bold;
+}
+
+.owl-stage-outer{
+    max-height: 150px;
+}
